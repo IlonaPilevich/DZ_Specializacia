@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\bin\Debug\net6.0\Task_Finaly.exe
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\bin\Debug\net6.0\Task_Finaly.deps.json
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\bin\Debug\net6.0\Task_Finaly.runtimeconfig.json
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\bin\Debug\net6.0\Task_Finaly.dll
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\bin\Debug\net6.0\Task_Finaly.pdb
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.AssemblyInfo.cs
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.dll
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\refint\Task_Finaly.dll
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.pdb
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\Task_Finaly.genruntimeconfig.cache
+C:\Users\HP\Desktop\DZ_Specializacia\Task_Finaly\obj\Debug\net6.0\ref\Task_Finaly.dll
